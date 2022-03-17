@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb 22 12:53:56 2022
-
-@author: maggie
+creation of the streamlit app
 """
 import pickle
 import streamlit as st
