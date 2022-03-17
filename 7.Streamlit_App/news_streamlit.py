@@ -12,7 +12,7 @@ import re
 #streamlit run news_streamlit.py --> to view this Streamlit app on a browser
 
 #we load the chosen model
-with open('best_lsvc.pickle', 'rb') as input_file:
+with open('7.Streamlit_App/best_lsvc.pickle', 'rb') as input_file:
         model= pickle.load(input_file)
 
 #We create a dictionary
