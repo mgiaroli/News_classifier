@@ -9,7 +9,7 @@ import spacy
 import pickle
 
 #we load TfidfVectorizer object
-with open('../tfidf.pickle', 'rb') as input_file:
+with open('tfidf.pickle', 'rb') as input_file:
     tfidf=pickle.load(input_file)
 
 def remove_html_tags(text):
