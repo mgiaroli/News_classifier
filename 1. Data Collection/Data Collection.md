@@ -32,8 +32,3 @@ The files in this folder are:
 - news_data.csv - The csv file with the data collected.
 
 You will find the detailed code in those scripts.
-
-
-```python
-
-```
