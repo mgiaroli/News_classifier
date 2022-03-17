@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov  9 18:19:58 2021
-
-@author: maggie
-
 Updating data news from rss feeds
 """
 
