@@ -12,8 +12,7 @@ import re
 #streamlit run news_streamlit.py --> to view this Streamlit app on a browser
 
 #we load the chosen model
-PATH='/home/maggie/News_classifier/6. Model Selection/'
-with open(PATH+ 'best_lsvc.pickle', 'rb') as input_file:
+with open('best_lsvc.pickle', 'rb') as input_file:
         model= pickle.load(input_file)
 
 #We create a dictionary

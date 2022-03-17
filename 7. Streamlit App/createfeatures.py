@@ -9,8 +9,7 @@ import spacy
 import pickle
 
 #we load TfidfVectorizer object
-path='/home/maggie/News_classifier/4. Features Creation/' 
-with open(path+ 'tfidf.pickle', 'rb') as input_file:
+with open('tfidf.pickle', 'rb') as input_file:
     tfidf=pickle.load(input_file)
 
 def remove_html_tags(text):
@@ -54,8 +53,7 @@ def clean_text(text):
     return text
 
 #Stopwords from https://countwordsfree.com/stopwords/spanish + modified by stopwords.py
-path2='/home/maggie/News_classifier/2. Data Cleaning and Text Preparation/' 
-my_file = open(path2+"stopwords_spanish.txt", "r")
+my_file = open("stopwords_spanish.txt", "r")
 stopwords = my_file.read()
 stopwords  = stopwords.split("\n")
 my_file.close()
