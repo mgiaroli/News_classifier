@@ -53,7 +53,7 @@ def clean_text(text):
     return text
 
 #Stopwords from https://countwordsfree.com/stopwords/spanish + modified by stopwords.py
-my_file = open("stopwords_spanish.txt", "r")
+my_file = open("7.Streamlit_App/stopwords_spanish.txt", "r")
 stopwords = my_file.read()
 stopwords  = stopwords.split("\n")
 my_file.close()
