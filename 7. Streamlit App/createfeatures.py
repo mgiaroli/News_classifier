@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb 22 11:53:23 2022
-
-@author: maggie
-
 Create the features given text input.
 For details, see the notebook Data Cleaning and text preparation.
 """
