@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 22 12:02:46 2022
-
-@author: maggie
-
 stopwords
 """
 
