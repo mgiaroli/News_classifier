@@ -10,7 +10,8 @@ The files in this folder are:
 - news_streamlit.py - Script of the streamlit application.
 - The files that we need for the app: best_lsvc.pickle, stopwords_spanish.txt, tfidf.pickle
 - requirements.txt - A list with the packages we need to run the app.
+- app_example.png - An image of the app.
 
 You can try the app here:
 
-https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py)
