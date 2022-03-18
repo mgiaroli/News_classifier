@@ -24,7 +24,7 @@ for num in [0,1,2,3,4,5]:
 #title
 st.title('Clasificador de noticias argentinas')
 
-st.markdown('#### Ingresá el título y una corta descripción de una noticia ')
+st.markdown('#### Ingresá el título y una descripción corta de una noticia ')
 
 #input
 news=st.text_area('')
