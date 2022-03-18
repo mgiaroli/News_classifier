@@ -12,7 +12,9 @@ In this project, we develop a machine learning classifier of argentine news. It 
 
 You can try the streamlit web application follow this link: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py)
 
+<p align="center">
 <img src="https://github.com/mgiaroli/News_classifier/blob/main/7.Streamlit_App/app_example.png" width="600" height="600" />
+</p>
 
 This project was inspired by these articles:  
 [Text Classification in Python](https://towardsdatascience.com/text-classification-in-python-dd95d264c802) and [Build a Web Application for News Classification with 96% Accuracy Using Flask and Keras](https://python.plainenglish.io/data-science-project-german-news-classifier-c574a1842aaa).
