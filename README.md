@@ -1,6 +1,6 @@
 # News classifier
 
-In this project, we develop a machine learning classifier of argentine news. It starts with the collection of news articles, followed by the training of a supervised machine learning classification model and ends with an interactive web application. The collected articles and the web application are in Spanish. The details of the process can be found in the following folders:
+In this project, we develop a machine learning classifier of argentine news. It starts with the collection of news articles, followed by the training of a supervised classification model and ends with an interactive web application. The collected articles and the web application are in Spanish. The details of the process can be found in the following folders:
 
 - [1.Data_Collection](https://github.com/mgiaroli/News_classifier/tree/main/1.Data_Collection)
 - [2.Data_Cleaning_and_Text Preparation](https://github.com/mgiaroli/News_classifier/tree/main/2.Data_Cleaning_and_Text_Preparation)
