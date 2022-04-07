@@ -10,7 +10,7 @@ In this project, we develop a machine learning classifier of argentine news. It 
 - [6.Model_Selection](https://github.com/mgiaroli/News_classifier/tree/main/6.Model_Selection)
 - [7.Streamlit_App](https://github.com/mgiaroli/News_classifier/tree/main/7.Streamlit_App)
 
-You can try the streamlit web application follow this link: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py)
+You can try the streamlit web application following this link: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py)
 
 <p align="center">
 <img src="https://github.com/mgiaroli/News_classifier/blob/main/7.Streamlit_App/app_example.png" width="600" height="600" />
