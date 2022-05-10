@@ -19,4 +19,4 @@ You can try the streamlit web application following this link: [![Streamlit App
 This project was inspired by these articles:  
 [Text Classification in Python](https://towardsdatascience.com/text-classification-in-python-dd95d264c802) and [Build a Web Application for News Classification with 96% Accuracy Using Flask and Keras](https://python.plainenglish.io/data-science-project-german-news-classifier-c574a1842aaa).
 
-Future approach: collect more news and try some deep learning model.
+Future approach: collect more news and try some deep learning models.
